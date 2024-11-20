@@ -1,6 +1,6 @@
 # Abdoulaye SY - Mon profil GitHub 👨‍💻
 
-![Ma bannière](./images/banner.png)
+![Ma bannière](ftp://carolinesf-etudiant2@ftp.cluster020.hosting.ovh.net/Nouveau%20dossier/Rustic%20Minimal%20Wedding%20Print%20Banner.png)
 
 ## 👋 À propos de moi  
 Je suis **Abdoulaye SY**, étudiant en Bachelor Cybersécurité, titulaire de deux licences (Multimédia Internet Communication, Information Communication) et d'une certification en Développement Web. Passionné par la sécurité informatique, je combine mes compétences techniques et communicationnelles pour relever les défis de la cybersécurité.
